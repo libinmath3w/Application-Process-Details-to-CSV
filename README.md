@@ -9,4 +9,6 @@ Storing data in a structured way is important when that data will be read by a c
 you need to change the process details according to your criteria.it will create a csv file with mensioned details. if you know powershell scripting then you can generate more details that suitable for your windows application testing.
 
 1.first you need to change the process name in powershellScriptToCSV.ps1 and then run that application in your pc
+
+
 2. then run the ProcessDetails.bat in administrator permission. then it will generate csv file.
